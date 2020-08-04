@@ -1,1 +1,4 @@
-# hurdle-race-game
+hurdlerun
+=========
+
+hurdle run javascript game
